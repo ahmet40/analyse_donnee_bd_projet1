@@ -4,6 +4,8 @@
 
 Ce projet consiste à créer une base de donnée avant la création d'une application de vente aux enchere.
 
+réaliser par un étudiant de première année de BUT informatique à l'IUT d'Orléans.
+
 ## Membres du groupe
 BABA Ahmet
 
